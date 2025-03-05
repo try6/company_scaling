@@ -42,3 +42,12 @@ We showed some samples data of our whole datasets here as example.
 
 `utils.py` is used for sharing functions
 
+
+## Instruction
+
+1. install python and related dependent packages.
+2. run fit_params.ipynb for getting the params files
+3. run unified_growth_curve.ipynb to calucate company growth and plot the growth curve 
+
+* Expected output: the params files of markets & the predicted growth curve of model.
+* Expected runtime: within 1min
