@@ -24,19 +24,19 @@ Linux: Ubuntu 16.04
 
 Python(3.7.13) Dependencies
 
-'''
+```
 scipy
 numpy
 matplotlib
 pandas
 seaborn
-'''
+```
 
 ## Demo
 
 We showed some samples data of our whole datasets here as example. 
 
-'fit_params.ipynb'  is used for fitting scaling parameters
+`fit_params.ipynb`  is used for fitting scaling parameters
 
-'unified_growth_curve.ipynb' is used for calculting growth curve
+`unified_growth_curve.ipynb` is used for calculting growth curve
 
