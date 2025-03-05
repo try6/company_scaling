@@ -1,6 +1,6 @@
 # Company Scaling
 
-This is the schama code for the work [Predicting the size-based growth of companies across the global market.](https://arxiv.org/abs/2109.10379). 
+This is the schama code for the work [Predicting the size-based growth of companies across the global market](https://arxiv.org/abs/2109.10379). 
 
 ## Overview
 
