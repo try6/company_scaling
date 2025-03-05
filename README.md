@@ -1,6 +1,5 @@
 # Company Scaling
-scaling theory of company growth
-本仓库是论文[]()的示意代码。我们所使用的数据描述如下：
+
 This is the schama code for the work [Predicting the size-based growth of companies across the global market.](https://arxiv.org/abs/2109.10379). 
 
 ## Overview
